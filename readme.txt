@@ -1,5 +1,4 @@
-![plot](./YoussefBayouli/Deploy-a-High-Availability-Web-App-Using-CloudFormation/high availability webapp architecture diagram.png)
-
+https://user-images.githubusercontent.com/75679079/106497336-332bbb80-64be-11eb-8fb0-568d8c9b1572.png
 
 Please find attached : 
 	
