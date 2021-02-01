@@ -15,8 +15,9 @@ In this project (Udagram App), I deployed web servers for a highly available web
 	* update.sh : Cloudformation update stack script.
 
 
-						
-*In this project i used a bastion host in order to connect to the instances (for troubleshooting) in the private subnet , 
+# Connecting to an ec2 instance in a private subnet on AWS : 
+
+In this project i used a bastion host in order to connect to the instances (for troubleshooting) in the private subnet , 
 for that i used SSH agent forwarding , which allows me to connect from the bastion to the other instances 
 without storing the private key on the bastion which is a very bad practice . 
 The SSH agent is a program that keeps track of the user identity keys .For the deployement part  please find config file
