@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/75679079/106497336-332bbb80-64be-11eb-8fb0-568d8c9b1572.png
+![high availability webapp architecture diagram](https://user-images.githubusercontent.com/75679079/106497682-a6cdc880-64be-11eb-9760-7b5369a9c1af.png)
+
 
 Please find attached : 
 	
