@@ -1,4 +1,4 @@
-![alt text](https://github.com/YoussefBayouli/Deploy-a-High-Availability-Web-App-Using-CloudFormation/blob/main/high%20availability%20webapp%20architecture%20diagram.png)
+![alt text](https://github.com/[YoussefBayouli]/[Deploy-a-High-Availability-Web-App-Using-CloudFormation]/blob/[master]/image.jpg?raw=true)
 
 
 Please find attached : 
