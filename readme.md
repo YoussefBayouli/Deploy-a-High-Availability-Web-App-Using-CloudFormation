@@ -1,3 +1,7 @@
+Deploy a High-Availability Web App using CloudFormation
+
+In this project (Udagram App), I deployed web servers for a highly available web app using CloudFormation. I wrote the script that creates and deploys the infrastructure and application for an Udagram app from the ground up. The script begin deploying the networking components followed by servers, security roles and software.
+
 ![high availability webapp architecture diagram](https://user-images.githubusercontent.com/75679079/106497682-a6cdc880-64be-11eb-9760-7b5369a9c1af.png)
 
 
