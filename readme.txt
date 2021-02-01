@@ -1,4 +1,4 @@
-![alt text](https://github.com/[YoussefBayouli]/[Deploy-a-High-Availability-Web-App-Using-CloudFormation]/blob/[master]/image.jpg?raw=true)
+![alt text](https://github.com/[YoussefBayouli]/[Deploy-a-High-Availability-Web-App-Using-CloudFormation]/blob/[main]/image.jpg?raw=true)
 
 
 Please find attached : 
