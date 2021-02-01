@@ -25,11 +25,11 @@ The SSH agent is a program that keeps track of the user identity keys .For the d
 # Config file : 
 The SSH config file is a great resource for storing all the configuration for the remote machines you connect to. It is located in home directory .ssh/config.
 
-Host bastion-instance
-   HostName <Bastion Public IP>
-   User ubuntu
-Host private-instance
-   HostName <Private IP>
-   User ubuntu
-   ProxyCommand ssh -q -W %h:%p bastion-instance
+	Host bastion-instance
+	   HostName <Bastion Public IP>
+	   User ubuntu
+	Host private-instance
+	   HostName <Private IP>
+	   User ubuntu
+	   ProxyCommand ssh -q -W %h:%p bastion-instance
 
