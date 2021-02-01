@@ -1,0 +1,32 @@
+Host bastionHost
+   HostName 35.165.50.154
+   User ubuntu
+   IdentityFile ~/desktop/a/youssef.pem
+Host PrivateInstance1
+   HostName 10.0.2.92
+   User ubuntu
+   ProxyCommand ssh -q -W %h:22 bastionHost
+   IdentityFile ~/desktop/a/youssef.pem
+
+Host PrivateInstance2
+   HostName 10.0.2.158
+   User ubuntu
+   ProxyCommand ssh -q -W %h:22 bastionHost
+   IdentityFile ~/desktop/a/youssef.pem
+
+Host PrivateInstance3
+   HostName 10.0.3.249
+   User ubuntu
+   ProxyCommand ssh -q -W %h:22 bastionHost
+   IdentityFile ~/desktop/a/youssef.pem
+Host PrivateInstance4
+   HostName 10.0.3.16
+   User ubuntu
+   ProxyCommand ssh -q -W %h:22 bastionHost
+   IdentityFile ~/desktop/a/youssef.pem
+
+
+
+
+
+
