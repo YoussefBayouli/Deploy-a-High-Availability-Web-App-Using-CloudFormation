@@ -6,12 +6,12 @@ In this project (Udagram App), I deployed web servers for a highly available web
 
 
 # Files included 
-	* /App of Udagram : Udagram App Code (Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function etc ...)
-	* create.sh : Cloudformation create stack script. 
-	* update.sh : Cloudformation update stack script.
-	*UdagramApp.yml: Udagram Project's CloudFormation script.
-	*UdagramServers.json : Udagram Project's CloudFormation script parameters. 
-	*/Images-of-result-deploy : Screenshot the result of deploy.
+	* Udagram App : Udagram App Code (Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function etc ...)
+	* Create.sh : Cloudformation create stack script. 
+	* Update.sh : Cloudformation update stack script.
+	* UdagramApp.yml: Udagram Project's CloudFormation script.
+	* UdagramServers.json : Udagram Project's CloudFormation script parameters. 
+	* Images-of-result-deploy : Screenshot the result of deploy.
 
 
 
