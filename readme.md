@@ -6,13 +6,13 @@ In this project (Udagram App), I deployed web servers for a highly available web
 
 
 # Files included 
-	
-	*UdagramApp.yml: Udagram Project's CloudFormation script.
-	*UdagramServers.json : Udagram Project's CloudFormation script parameters. 
-	*/Images-of-result-deploy : Screenshot the result of deploy.
 	* /App of Udagram : Udagram App Code (Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function etc ...)
 	* create.sh : Cloudformation create stack script. 
 	* update.sh : Cloudformation update stack script.
+	*UdagramApp.yml: Udagram Project's CloudFormation script.
+	*UdagramServers.json : Udagram Project's CloudFormation script parameters. 
+	*/Images-of-result-deploy : Screenshot the result of deploy.
+
 
 
 # Connecting to an ec2 instance in a private subnet on AWS : 
